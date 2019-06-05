@@ -2,4 +2,4 @@
 Fundamentos do Java
 
 
-https://github.com/Rodrigo1426/java/blob/master/imagens/duke.png
+<img src="https://github.com/Rodrigo1426/java/blob/master/imagens/duke.png">
